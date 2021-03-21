@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "pages/empower/main",
+    "pages/firstView/main",
+    "pages/mine_branch/main",
+    "pages/mine_morePositionCertification/main",
+    "pages/application_willAndClassDetail/main",
+    "pages/mine/main",
+    "pages/application_turnProgress/main",
+    "pages/application_turnOrganization/main",
+    "pages/firstView_basicStyle/main",
+    "pages/firstView_partyTraining/main",
+    "pages/firstView_pioneer/main",
+    "pages/mine_certification/main",
+    "pages/mine_collection/main",
+    "pages/mine_personalInformation/main",
+    "pages/message/main",
+    "pages/message_details/main",
+    "pages/message_meetForm/main",
+    "pages/message_announcement_details/main",
+    "pages/message_minute_meeting_details/main",
+    "pages/application/main",
+    "pages/application_createActivity/main",
+    "pages/application_previewArticle/main",
+    "pages/application_previewActivity/main",
+    "pages/application_answerQuestion/main",
+    "pages/application_leaveWord/main",
+    "pages/application_polls/main",
+    "pages/application_pollsDetails/main",
+    "pages/application_activityDetails/main",
+    "pages/application_publishedArticles/main",
+    "pages/application_themeDay/main",
+    "pages/application_questionDetail/main",
+    "pages/article/main",
+    "pages/application_volunteering/main",
+    "pages/application_willAndClass/main",
+    "pages/text/main"
+  ],
+  "window": {
+    "navigationBarTitleText": "士继党建",
+    "navigationBarTextStyle":"black",
+    "navigationBarBackgroundColor": "#D9001B"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/firstView/main",
+        "text": "首页",
+        "iconPath": "/static/images/index.png",
+        "selectedIconPath": "/static/images/index1.png"
+      },{
+        "pagePath": "pages/application/main",
+        "text": "应用",
+        "iconPath": "/static/images/application.png",
+        "selectedIconPath": "/static/images/application1.png"
+      },{
+        "pagePath": "pages/message/main",
+        "text": "消息",
+        "iconPath": "/static/images/message.png",
+        "selectedIconPath": "/static/images/message1.png"
+      }, {
+        "pagePath": "pages/mine/main",
+        "text": "我的",
+        "iconPath": "/static/images/mine.png",
+        "selectedIconPath": "/static/images/mine1.png"
+      }
+    ]
+  }
+}
